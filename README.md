@@ -1,5 +1,5 @@
 # technopark_rain_tomorrow
-educational task for using models to predict weather in Australia
+educational task of using models to predict weather in Australia
 # Учебная задача по предсказанию погоды в Австралии (наивный Байес, k-NN, логистическая регрессия, оценка метрик).
 # Краткое описание данных:
 # Date - Дата наблюдений
